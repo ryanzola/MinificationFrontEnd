@@ -1,0 +1,10 @@
+# minify-frontend work log
+
+Past Goals: 
+    -Send a get request to my backend
+        and have it return a message.
+
+Current Goal: 
+    - deploy backend server to google cloud
+    - connect to mongo atlas
+    - make a login page
